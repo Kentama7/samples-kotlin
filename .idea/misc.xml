@@ -4,6 +4,7 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/doma" />
     <file type="web" url="file://$PROJECT_DIR$/konform" />
+    <file type="web" url="file://$PROJECT_DIR$/scopes" />
   </component>
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
